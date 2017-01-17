@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools" >
+
+
+    <item
+        android:id="@+id/action_fragment"
+        android:orderInCategory="10"
+        android:icon="@drawable/ic_action_device_access_bluetooth_searching"
+        app:showAsAction="always" />
+
+</menu>
